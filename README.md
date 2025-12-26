@@ -4,6 +4,8 @@ A modular **Line Following Robot** built using **Arduino Uno**, **IR sensors**, 
 
 This project was developed as a **first hands-on robotics project**, focusing on embedded systems fundamentals, sensor calibration, motor control, and control algorithms.
 
+simulation url:-https://app.cirkitdesigner.com/project/b58dada0-c5a7-4a97-9018-051edb7ccd39
+
 ---
 
 ## 📌 Project Overview
@@ -40,3 +42,5 @@ Key objectives of the project include:
 - Li-ion Battery (3.7V) ×2
 - Breadboard ×1
 - Jumper Wires
+
+
